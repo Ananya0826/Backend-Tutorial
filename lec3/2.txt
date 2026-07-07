@@ -1,0 +1,8 @@
+npm-node package manager
+node js core me jo installed ata hai wo module hota h
+npm se download krte h wo package hota h
+example:text to speech 
+different ways to run scripts:
+npm start
+npm run dev
+npm run concurrent

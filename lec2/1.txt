@@ -1,0 +1,15 @@
+node.js:
+is a js runtime environment
+js se backend nhi bn skta
+kyuki js ke pas wo functionalities nhi h jisse backend bnta h
+ryan dahl used google chrome ka v8 engine ka code open source hai 
+kyuki v8 bana hai c++ me
+he wrapped the v8 code with js code
+hum js code likenge jo ki wrapper layer of js receive karegi and wo code v8 engine ke c++ modules ke sath ek server create karega
+v8 engine wrapped in js wrapper combined is known as node.js
+node.js is a js runtime environment
+npm->pakages ->code borrowed to use in our project
+npm init -y:-create package.json->lekha jokha of the project
+protocols:rules to use internet
+http and https
+http:rules to send and receive requests on the internet
