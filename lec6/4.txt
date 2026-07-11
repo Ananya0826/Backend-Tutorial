@@ -1,0 +1,23 @@
+mini project:
+webpage to create notes
+steps:
+initialize the project with npm
+express install
+setting up parsers for form (app.use()->both json and encodeurl)
+setting up ejs pages->
+install ejs from npm 
+setup ejs as a view engine
+setting up public static files
+dynamic rounting:
+how to get data coming from frontend at abckend route
+hum kai baar kuch routes dekhte h unme sirf ek hi hissa change hota hai 
+like 
+/author/harsh
+/author/harshita
+/profile/harsh
+/profile/harshita ...
+sbse pehle browser pe jao 
+url lkhiye apna jo apko chahiye
+ab us url route ko create kriye
+response bhejiye kuch bhi
+ab usi url ko dynamic banana hai to realize karo konsa part dynamic hai aur us part ke aage rounte me : lagado

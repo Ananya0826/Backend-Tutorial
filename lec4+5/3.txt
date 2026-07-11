@@ -1,0 +1,16 @@
+Express.js:
+express js ek npm package hai
+its a framework->flow batata hai
+manages everything from receiving the request and giving back the response
+routes create krna
+//middleware:routes ko chalane se pehle kuch perform krne ke liye middleware is used
+jab bhi server req accept krta hai waha se route ke beech pahuchne tak agar ap us req ko beech me rokte ho aur kuch perform krte ho to ye element middleware kehlaata h 
+req->middleware->routes
+//error handling
+//form handling and working with the forms
+handle backend process of forms and making sure the data coming from any frontend lib,template engines,frameworks,we still handle it at the backend
+//session cookie:
+humlog koi bhi data browser pe rakh skte h
+jab humlog  kuch bhi request backend pe karenge to frontend par saved data automatically backend par chala jaega
+tumne to bheja tha plaintext par server ko mila blob which is'nt directly readable 
+ab is chiz ko handle karna pdega ki hum us blob/encoded ko wapas se readable kr skte h
