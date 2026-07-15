@@ -1,0 +1,13 @@
+data storage:aisa kuch jaha par hum sare users ki info store krskte hai
+database types:sql,nosql(not only sql)
+sql:data ko tables me rkhna
+NoSQL:data in forms of objects
+mongoDB->actual database on the basis of NoSQL
+backend:application server-(handles routes and accepts request-login ,logout etc) and database server
+.......................
+database(any project or application)->collection(users)->document(one user)
+data belonging to a project->collections
+code              database
+mongoose.connect->database create
+model create    ->collection
+create          ->document
